@@ -1,4 +1,4 @@
-require 'pry'
+
 
 Alphabetical = /[A-Za-z]/
 Capital = /[A-Z]/

@@ -1,5 +1,6 @@
 require "caesar_cipher"
 
+
 describe "#cipher" do
 
   it "ciphers one word" do
